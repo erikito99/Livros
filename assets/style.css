@@ -1,7 +1,7 @@
 :root {
     --text-color: #e5da9f;
     --card-front-color: #bd6d17;
-    --card-back-color: #711d1b;
+    --card-back-color: #7b1513;
 }
 
 body {
@@ -23,9 +23,9 @@ body {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
-
+ss
 .cartao__conteudo {
-    background-color: var(--card-front-color);
+    background-color:rgb(rgb(194, 106, 34), rgb(194, 106, 34), rgb(194, 106, 34));
     text-align: center;
     /* background-color: aquamarine; */
     height: 100%;
